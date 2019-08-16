@@ -1,4 +1,4 @@
-package com.leopaul.recipe.controller;
+package com.leopaul.recipe.controllers;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
